@@ -1,0 +1,2 @@
+# do not track ipython notbook checkpoints
+*.ipynb_checkpoints/
